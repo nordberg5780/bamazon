@@ -10,5 +10,5 @@ The customer interface allows the user to view the current inventory of store it
 
 <p align="center">
   <img src="https://github.com/nordberg5780/bamazon/blob/master/screen%20shots/ordered%20product%20and%20updated%20table.png" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+  <img src="https://github.com/nordberg5780/bamazon/blob/master/screen%20shots/ordered%20product%20and%20updated%20table.png" width="350" alt="accessibility text">
 </p>
