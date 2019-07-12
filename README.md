@@ -9,6 +9,6 @@ In order to run this application, you should have the MySQL database already set
 The customer interface allows the user to view the current inventory of store items: item IDs, descriptions, department in which the item is located and price. The user is then able to purchase one of the existing items by entering the item ID and the desired quantity. If the selected quantity is currently in stock, the user's order is fulfilled, displaying the total purchase price and updating the store database. If the desired quantity is not available, the user is prompted to modify their order.
 
 <p align="center">
-  <img src="your_relative_path_here" width="350" title="hover text">
+  <img src="https://github.com/nordberg5780/bamazon/blob/master/screen%20shots/ordered%20product%20and%20updated%20table.png" width="350" title="hover text">
   <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
 </p>
